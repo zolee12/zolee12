@@ -1,0 +1,93 @@
+{
+ "title": "Kérjük, gondold végig és értékeld, hogy a felsorolt állítások közül melyik milyen mértékben igaz.  Válaszd ki a véleményedet tükröző értéket 0 és 4 között, ahol: - ( teljesen igaz = 4 ) - ( általában igaz = 3 ) - ( többnyire nem igaz = 2 ) - ( egyáltalán nem igaz = 1 ) - ( nincs információm = 0 ).  A „0” megjelölést az átlagba nem számítjuk bele!  Pontos válaszaid segítenek abban, hogy oktatód munkájára vonatkozóan a véleményedet megismerjük.  Segítő közreműködésedet köszönjük.  (Duális képzőhely: az a vállalkozás, ahol a szakmát tanulod szakképzési munkaszerződéssel.)",
+ "pages": [
+  {
+   "name": "Tanulói kérdőív az oktatói értékeléshez",
+   "elements": [
+    {
+     "type": "rating",
+     "name": "kérdés2",
+     "title": "Év elején a tantárgya oktatásának megkezdésekor vagy egy-egy projekt előtt ismerteti az elvárásokat a szülőkkel, tanulókkal.",
+     "isRequired": true,
+     "rateMin": 0,
+     "rateMax": 4
+    },
+    {
+     "type": "rating",
+     "name": "kérdés1",
+     "title": "A tanulók értékelése következetes, fejlesztő hatású.",
+     "isRequired": true,
+     "rateMin": 0,
+     "rateMax": 4
+    },
+    {
+     "type": "rating",
+     "name": "kérdés11",
+     "title": "Tervezésében figyelembe veszi a tanulói igényeket és adottságokat, a tehetséges tanulóknak fejlődési lehetőséget biztosít, a lemaradó tanulókat igyekszik felzárkóztatni.",
+     "isRequired": true,
+     "rateMin": 0,
+     "rateMax": 4
+    },
+    {
+     "type": "rating",
+     "name": "kérdés3",
+     "title": "Oktató-nevelő munkájában szerepet kap a tanulók motiválása, épít a tanulók tevékeny részvételére.",
+     "isRequired": true,
+     "rateMin": 0,
+     "rateMax": 4
+    },
+    {
+     "type": "rating",
+     "name": "kérdés4",
+     "title": "Tervezésében épít a tanulók előzetes tudására, valamint a duális képzőhelyen szerzett ismeretekre, tapasztalatokra.",
+     "isRequired": true,
+     "rateMin": 0,
+     "rateMax": 4
+    },
+    {
+     "type": "rating",
+     "name": "kérdés5",
+     "title": "A tanítási órákon használja a digitális oktatás módszereit és eszközeit (pl. szakmára jellemző szoftverek vagy számítógép, okostelefon).",
+     "isRequired": true,
+     "rateMin": 0,
+     "rateMax": 4
+    },
+    {
+     "type": "rating",
+     "name": "kérdés6",
+     "title": "A tanítási órákon figyelembe veszi a tanulók szakmáját, a duális képzőhely szerepét.",
+     "isRequired": true,
+     "rateMin": 0,
+     "rateMax": 4
+    },
+    {
+     "type": "rating",
+     "name": "kérdés7",
+     "title": "Feleltetésnél, dolgozatírásnál mindig ismerteti az elvárásokat, amelyek segítenek felkészülni a vizsgára.",
+     "isRequired": true,
+     "rateMin": 0,
+     "rateMax": 4
+    },
+    {
+     "type": "rating",
+     "name": "kérdés8",
+     "title": "Teljesíthető követelményeket támaszt, és aszerint értékel.",
+     "isRequired": true,
+     "rateMin": 0,
+     "rateMax": 4
+    },
+    {
+     "type": "rating",
+     "name": "kérdés9",
+     "title": "A házi feladatokat, a tanulói munkákat rendszeresen ellenőrzi és értékeli, a visszajelzései egyértelműek, tárgyilagosak, fejlesztő hatásúak.",
+     "isRequired": true,
+     "rateMin": 0,
+     "rateMax": 4
+    }
+   ],
+   "title": "Oktató neve: Árky -Teész Katalin"
+  }
+ ],
+ "cookieName": "tanuloi",
+ "storeOthersAsComment": false
+}
